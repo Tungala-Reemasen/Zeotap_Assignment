@@ -1,5 +1,5 @@
 # Zeotap_Assignment
-# README: eCommerce Transactions Analysis Assignment
+ README: eCommerce Transactions Analysis Assignment
 # Overview
 This project focuses on analyzing an eCommerce transactions dataset to uncover valuable insights, develop a customer lookalike model, and perform customer segmentation. The objective is to demonstrate proficiency in exploratory data analysis (EDA), predictive modeling, and clustering techniques, while delivering actionable business recommendations.
 # Dataset Details
