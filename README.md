@@ -56,11 +56,11 @@ The analysis uses the following three datasets:
 
 ---
 #### **Key Tools and Technologies**
-**Python Libraries:**
+- **Python Libraries:**
     - Pandas, NumPy for data processing and cleaning.
     - Matplotlib, Seaborn for data visualization.
     - Scikit-learn for machine learning and clustering.
-**Jupyter Notebook:**
+- **Jupyter Notebook:**
     - Used for analysis, coding, and visualization.
 
 ---
