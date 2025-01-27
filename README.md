@@ -38,6 +38,7 @@ Deliverables:
 
 Jupyter Notebook with EDA code and visualizations.
 PDF report summarizing business insights.
+
  **2. Lookalike Model**
 Build a machine learning model to recommend three similar customers based on profiles and transaction histories.
 Use customer and product data to calculate similarity scores.
@@ -45,6 +46,7 @@ Deliverables:
 
 Lookalike.csv: Contains similarity scores for the first 20 customers.
 Jupyter Notebook with model development and results.
+
 **3. Customer Segmentation**
 Perform clustering using customer profiles and transaction data.
 Evaluate clusters using metrics such as the Davies-Bouldin Index (DB Index).
