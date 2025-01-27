@@ -32,27 +32,27 @@ The analysis uses the following three datasets:
 #### **Tasks and Deliverables**
 
 **1. Exploratory Data Analysis (EDA)**
--Merge and clean the datasets to create a unified view.
--Visualize key metrics, such as revenue trends, regional contributions, and product performance.
--Generate actionable insights to guide marketing, inventory management, and customer engagement strategies.
--Deliverables:
- -Jupyter Notebook with EDA code and visualizations.
- -PDF report summarizing business insights.
+- Merge and clean the datasets to create a unified view.
+- Visualize key metrics, such as revenue trends, regional contributions, and product performance.
+- Generate actionable insights to guide marketing, inventory management, and customer engagement strategies.
+- Deliverables:
+ - Jupyter Notebook with EDA code and visualizations.
+ - PDF report summarizing business insights.
 
  **2. Lookalike Model**
--Build a machine learning model to recommend three similar customers based on profiles and transaction histories.
--Use customer and product data to calculate similarity scores.
--Deliverables:
- -Lookalike.csv: Contains similarity scores for the first 20 customers.
- -Jupyter Notebook with model development and results.
+- Build a machine learning model to recommend three similar customers based on profiles and transaction histories.
+- Use customer and product data to calculate similarity scores.
+- Deliverables:
+ - Lookalike.csv: Contains similarity scores for the first 20 customers.
+ - Jupyter Notebook with model development and results.
 
 **3. Customer Segmentation**
--Perform clustering using customer profiles and transaction data.
--Evaluate clusters using metrics such as the Davies-Bouldin Index (DB Index).
--Visualize clusters and provide recommendations for targeting each segment effectively.
--Deliverables:
- -Jupyter Notebook with clustering analysis and visualizations.
- -Report detailing the number of clusters, DB Index value, and actionable insights.
+- Perform clustering using customer profiles and transaction data.
+- Evaluate clusters using metrics such as the Davies-Bouldin Index (DB Index).
+- Visualize clusters and provide recommendations for targeting each segment effectively.
+- Deliverables:
+ - Jupyter Notebook with clustering analysis and visualizations.
+ - Report detailing the number of clusters, DB Index value, and actionable insights.
 
 ---
 #### **Key Tools and Technologies**
