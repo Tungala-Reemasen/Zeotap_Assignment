@@ -57,27 +57,27 @@ The analysis uses the following three datasets:
 ---
 #### **Key Tools and Technologies**
 Python Libraries:
-Pandas, NumPy for data processing and cleaning.
-Matplotlib, Seaborn for data visualization.
-Scikit-learn for machine learning and clustering.
+    - Pandas, NumPy for data processing and cleaning.
+    - Matplotlib, Seaborn for data visualization.
+    - Scikit-learn for machine learning and clustering.
 Jupyter Notebook: Used for analysis, coding, and visualization.
 
 ---
 #### **Expected Outcomes**
-In-depth understanding of revenue drivers, customer behavior, and sales trends.
-A functional lookalike model providing meaningful customer recommendations.
-Customer segments with actionable insights for targeted marketing and product strategies.
+- In-depth understanding of revenue drivers, customer behavior, and sales trends.
+- A functional lookalike model providing meaningful customer recommendations.
+- Customer segments with actionable insights for targeted marketing and product strategies.
 
 ---
 #### **How to Run**
-Clone this repository.
-Install required libraries with pip install -r requirements.txt.
-Open the Jupyter Notebooks (EDA.ipynb, Lookalike_Model.ipynb, Clustering.ipynb) to explore the analyses.
-Review the generated reports for business insights and recommendations.
+- Clone this repository.
+- Install required libraries with pip install -r requirements.txt.
+- Open the Jupyter Notebooks (EDA.ipynb, Lookalike_Model.ipynb, Clustering.ipynb) to explore the analyses.
+- Review the generated reports for business insights and recommendations.
 
 ---
 #### **Potential Applications**
-Optimize marketing campaigns by focusing on high-value customers.
-Personalize product recommendations using the lookalike model.
-Improve operational efficiency by addressing seasonal trends and return rates.
-Expand into untapped regional markets and enhance sales of underperforming products.
+- Optimize marketing campaigns by focusing on high-value customers.
+- Personalize product recommendations using the lookalike model.
+- Improve operational efficiency by addressing seasonal trends and return rates.
+- Expand into untapped regional markets and enhance sales of underperforming products.
